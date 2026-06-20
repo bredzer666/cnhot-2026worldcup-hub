@@ -1,2 +1,14 @@
 # cnhot-2026worldcup-hub
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
